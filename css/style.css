@@ -1,0 +1,34 @@
+
+
+
+body {
+	background-image: url("../images/forest1.jpg");
+	background-size: 1300px;
+	float: center;
+	padding-right: 0;
+
+	
+
+}
+
+label {
+	color: brown;
+	font-weight: bold;
+}
+
+
+
+
+h1 {
+	font-weight: bold;
+	font-size: 50px;
+	background-color: brown;
+}
+ 
+ footer {
+ 	float: center;
+ 	text-align: center;
+ 	color: brown;
+ 	padding-top: 580px;
+ }
+
